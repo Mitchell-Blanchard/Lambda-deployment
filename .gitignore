@@ -1,0 +1,7 @@
+handler.zip
+terraform/module/.terraform
+terraform/module/.terraform.lock.hcl
+terraform/production/.terraform
+terraform/production/.terraform.lock.hcl
+terraform/production/terraform.tfstate
+terraform/production/terraform.tfstate.backup
